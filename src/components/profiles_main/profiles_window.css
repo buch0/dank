@@ -1,0 +1,34 @@
+.border {
+  border: 1px solid #000000;
+}
+.col-sm {
+  text-align: center;
+}
+#profileNo {
+  width: 5px;
+}
+.row {
+  width: 1200px;
+}
+#footer_profile {
+  width: 1200px;
+  position: fixed;
+  bottom: 1%;
+}
+
+button#addp.btn.btn-light {
+  width: 25%;
+  border-color: #a5a5a5;
+}
+button#import.btn.btn-light {
+  width: 25%;
+  border-color: #a5a5a5;
+}
+button#export.btn.btn-light {
+  width: 25%;
+  border-color: #a5a5a5;
+}
+button#deleteall.btn.btn-light {
+  width: 25%;
+  border-color: #a5a5a5;
+}

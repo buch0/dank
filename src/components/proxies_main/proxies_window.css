@@ -1,0 +1,58 @@
+#welcome {
+  text-align: center;
+}
+#webhook {
+  width: 30%;
+}
+.webhook_form {
+  margin-left: 5px;
+}
+#saveweb {
+  margin-left: 5px;
+}
+#testweb {
+  margin-left: 5px;
+}
+.proxy_form {
+  margin-left: 5px;
+  width: 30%;
+}
+#add_google {
+  position: absolute;
+  top: 28%;
+  left: 35%;
+  margin-top: -50px;
+  margin-left: -10px;
+  width: 30%;
+}
+
+#add_twocaptcha {
+  position: absolute;
+  top: 28%;
+  left: 70%;
+  margin-top: -75px;
+  margin-left: -50px;
+  width: 30%;
+}
+#add_anticaptcha {
+  position: absolute;
+  top: 50%;
+  left: 70%;
+  margin-top: -75px;
+  margin-left: -50px;
+  width: 30%;
+}
+/* #add_webhook {
+  position: absolute;
+  top: 25%;
+  left: 1%;
+  margin-top: -50px;
+  margin-left: -100px;
+  width: 30%;
+} */
+
+#footer_proxy {
+  width: 1200px;
+  position: fixed;
+  bottom: 2%;
+}

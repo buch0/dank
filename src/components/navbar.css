@@ -1,0 +1,25 @@
+.nav-item {
+  width: 33%;
+  transition: 0.3s;
+}
+.nav-item:hover {
+  background-color: rgb(227, 227, 227);
+}
+.nav-link {
+  text-align: center;
+}
+hr#border {
+  margin-top: 0rem;
+  margin-bottom: 0.2rem;
+}
+#border {
+  border: 1px solid #000000;
+}
+
+.navbar-nav {
+  width: 100%;
+}
+.makeStyles-root-1 {
+  color: rgba(0, 0, 0, 0.9);
+  background-color: #ffffff;
+}

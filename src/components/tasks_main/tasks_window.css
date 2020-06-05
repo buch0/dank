@@ -1,0 +1,39 @@
+.border {
+  border: 1px solid #000000;
+}
+.col-sm {
+  text-align: center;
+}
+#taskNo {
+  margin-left: 5px;
+}
+.row {
+  width: 1200px;
+}
+
+#footer_task {
+  width: 1200px;
+  position: fixed;
+  bottom: 2%;
+}
+
+button#add.btn.btn-light {
+  width: 20%;
+  border-color: #a5a5a5;
+}
+button#mass.btn.btn-light {
+  width: 20%;
+  border-color: #a5a5a5;
+}
+button#start.btn.btn-light {
+  width: 20%;
+  border-color: #a5a5a5;
+}
+button#stop.btn.btn-light {
+  width: 20%;
+  border-color: #a5a5a5;
+}
+button#delete.btn.btn-light {
+  width: 20%;
+  border-color: #a5a5a5;
+}
